@@ -1,0 +1,2 @@
+# calisma
+git denemelerim
